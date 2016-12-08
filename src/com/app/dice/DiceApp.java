@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
-/* create a class to generate 5 dice rolls and capture the score based on below game rules
+
+/* create a class to calculate 5 dice rolls and capture the score based on below game rules
     1.A set matching three dice with outcome 1 earns a score of 1000 points
     2.A set matching three dice with outcome 2 earns a score of 200  points
     3.A set matching three dice with outcome 3 earns a score of 300  points
